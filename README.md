@@ -4,7 +4,7 @@ I'm postgraduate in IT Governance, Graduate in HR at Leonardo Da Vinci Universit
 
 - 🔭 I’m currently working on VB.net, MySQL and MS Access.
 - 🌱 I’m currently learning VHDL and Arduino.
-- 😄 Technologies, platforms and things that I'm using: C, C++, JavaScript, HTML, Asp.net, VB.net, VHDL, Arduino IDE, Linux, MacOS, Office/vbscript, 3D Studio Max, After Effect, Corel Draw, Photoshop and more.
+- 😄 Technologies, platforms and things that I'm using: C, C++, Java, JavaScript, HTML, Asp.net, VB.net, VHDL, Arduino IDE, Linux, MacOS, MSOffice/vbscript, 3D Studio Max, After Effect, Corel Draw, Photoshop and more.
 - ⚡ Fun fact: I'm a genealogical researcher at @FamilySearch, I'm trying play piano and guitar, I have read articles about 3D design, electronics and circuits. 
 
 <!--
