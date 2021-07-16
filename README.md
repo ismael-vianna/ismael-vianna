@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi every body 👋
+
+I'm postgraduate in IT Governance, Graduate in HR at Leonardo Da Vinci Univercity and studying bachelor in Computer Engineering at UERGS.
+
+- 🔭 I’m currently working on VB.net, MySQL and MS Access.
+- 🌱 I’m currently learning VHDL and Arduino.
+- 😄 Technologies, platforms and things that I'm using: C, C++, JavaScript, HTML, Asp.net, VB.net, VHDL, Arduino IDE, Linux, MacOS, Office/vbscript, 3D Studio Max, After Effect, Corel Draw, Photoshop and more.
+- ⚡ Fun fact: I'm a genealogical researcher, I'm trying play piano and guitar, I have read articles about 3D design, electronics and circuits. 
 
 <!--
 **ismael-vianna/ismael-vianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
