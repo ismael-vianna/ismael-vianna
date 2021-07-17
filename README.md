@@ -1,4 +1,4 @@
-### Hi every body 👋
+### Hi everybody 👋
 
 I'm postgraduate in IT Governance, Graduate in HR at Leonardo Da Vinci University and studying bachelor in Computer Engineering at UERGS (Rio Grande do Sul State University).
 
