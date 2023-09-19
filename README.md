@@ -1,10 +1,10 @@
 ### Hi everybody 👋
 
-I'm postgraduate in IT Governance, Graduate in HR at Leonardo Da Vinci University and studying bachelor in Computer Engineering at UERGS (Rio Grande do Sul State University).
+I'm postgraduate in IT Governance, Graduate in HR at Leonardo Da Vinci University and studying bachelor in Computer Engineering at UERGS (Rio Grande do Sul State University) and bachelor in Computer Sciences at Estácio University.
 
-- 🔭 I’m currently working on VB.net, Asp.net, webservice, MySQL and MS Access.
+- 🔭 I’m currently working on Flutter, PowerApps, VB.net, Asp.net, webservice, PowerBI, MySQL and MS Access.
 - 🌱 I’m currently learning VHDL and Arduino.
-- 😄 Technologies, platforms and things that I'm using: C, C++, Java, JavaScript, Json, Xml, HTML, Asp.net, VB.net, VHDL, Arduino IDE, Linux, MacOS, MSOffice/vbscript, 3D Studio Max, After Effect, Corel Draw, Photoshop and more.
+- 😄 Technologies, platforms and things that I'm using: Dart, C, C++, Java, JavaScript, Json, Xml, HTML, Asp.net, VB.net, VHDL, Arduino IDE, Linux, MacOS, MSOffice/vbscript, 3D Studio Max, After Effect, Corel Draw, Photoshop and more.
 - ⚡ Fun fact: I'm a genealogical researcher at @FamilySearch, I'm trying play piano and guitar, I have read articles about 3D design, electronics and circuits. 
 
 <!--
