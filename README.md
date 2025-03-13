@@ -1,6 +1,6 @@
 ### Hi everybody 👋
 
-I'm postgraduate in IT Governance, Graduate in HR at Leonardo Da Vinci University and studying bachelor in Computer Engineering at UERGS (Rio Grande do Sul State University) and bachelor in Computer Sciences at Estácio University.
+I'm postgraduate in IT Governance, graduate in Computer Sciences at Estácio University, in HR at Leonardo Da Vinci University and studying bachelor in Computer Engineering at UERGS (Rio Grande do Sul State University).
 
 - 🔭 I’m currently working on Flutter, PowerApps, VB.net, Asp.net, webservice, PowerBI, MySQL and MS Access.
 - 🌱 I’m currently learning VHDL and Arduino.
